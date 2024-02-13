@@ -1,0 +1,56 @@
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 13
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Watching for file changes with StatReloader
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py", line 13, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 26
+C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\app1\settings.py changed, reloading.
+INFO 2024-02-13 17:29:16,919 autoreload 7616 6220 Watching for file changes with StatReloader
+INFO 2024-02-13 17:29:19,170 autoreload 7616 6220 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\app1\settings.py changed, reloading.
+INFO 2024-02-13 17:29:19,587 autoreload 10040 5808 Watching for file changes with StatReloader
+INFO 2024-02-13 17:29:21,843 autoreload 10040 5808 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\app1\settings.py changed, reloading.
+INFO 2024-02-13 17:29:22,254 autoreload 10032 2676 Watching for file changes with StatReloader
+ERROR 2024-02-13 17:29:25,587 views 10032 15876 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py", line 13, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-02-13 17:29:25,589 basehttp 10032 15876 "GET /about/ HTTP/1.1" 200 26
+ERROR 2024-02-13 17:29:27,243 views 10032 15876 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py", line 13, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-02-13 17:29:27,243 basehttp 10032 15876 "GET /about/ HTTP/1.1" 200 26
+INFO 2024-02-13 17:29:31,090 views 10032 15876 Index page accessed
+INFO 2024-02-13 17:29:31,090 basehttp 10032 15876 "GET / HTTP/1.1" 200 13
+ERROR 2024-02-13 17:39:25,073 views 10032 14384 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py", line 13, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-02-13 17:39:25,075 basehttp 10032 14384 "GET /about/ HTTP/1.1" 200 26
+INFO 2024-02-13 17:42:16,384 autoreload 10032 2676 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py changed, reloading.
+INFO 2024-02-13 17:42:16,792 autoreload 15796 2776 Watching for file changes with StatReloader
+INFO 2024-02-13 17:42:20,049 autoreload 15796 2776 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py changed, reloading.
+INFO 2024-02-13 17:42:20,457 autoreload 1828 17400 Watching for file changes with StatReloader
+INFO 2024-02-13 17:42:30,836 autoreload 1828 17400 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py changed, reloading.
+INFO 2024-02-13 17:42:31,219 autoreload 12484 6504 Watching for file changes with StatReloader
+INFO 2024-02-13 17:42:34,206 basehttp 12484 6496 "GET /about/ HTTP/1.1" 200 308
+INFO 2024-02-13 17:42:43,726 autoreload 12484 6504 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py changed, reloading.
+INFO 2024-02-13 17:42:44,120 autoreload 15176 3536 Watching for file changes with StatReloader
+INFO 2024-02-13 17:42:47,403 autoreload 15176 3536 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py changed, reloading.
+INFO 2024-02-13 17:42:47,798 autoreload 16492 4060 Watching for file changes with StatReloader
+INFO 2024-02-13 17:42:53,060 basehttp 16492 9196 "GET / HTTP/1.1" 200 388
