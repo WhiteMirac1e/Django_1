@@ -54,3 +54,29 @@ INFO 2024-02-13 17:42:44,120 autoreload 15176 3536 Watching for file changes wit
 INFO 2024-02-13 17:42:47,403 autoreload 15176 3536 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp\views.py changed, reloading.
 INFO 2024-02-13 17:42:47,798 autoreload 16492 4060 Watching for file changes with StatReloader
 INFO 2024-02-13 17:42:53,060 basehttp 16492 9196 "GET / HTTP/1.1" 200 388
+INFO 2024-02-15 17:00:08,883 autoreload 17224 2340 Watching for file changes with StatReloader
+INFO 2024-02-15 17:01:49,148 autoreload 17176 12924 Watching for file changes with StatReloader
+INFO 2024-02-15 17:01:59,157 basehttp 17176 2532 "GET / HTTP/1.1" 200 388
+WARNING 2024-02-15 17:01:59,530 log 17176 2532 Not Found: /favicon.ico
+WARNING 2024-02-15 17:01:59,530 basehttp 17176 2532 "GET /favicon.ico HTTP/1.1" 404 2543
+INFO 2024-02-15 17:05:44,613 autoreload 16124 13948 Watching for file changes with StatReloader
+INFO 2024-02-19 16:14:29,221 autoreload 1832 16112 Watching for file changes with StatReloader
+INFO 2024-02-19 16:14:34,251 basehttp 1832 12712 "GET / HTTP/1.1" 200 388
+WARNING 2024-02-19 16:14:34,731 log 1832 12712 Not Found: /favicon.ico
+WARNING 2024-02-19 16:14:34,731 basehttp 1832 12712 "GET /favicon.ico HTTP/1.1" 404 2543
+INFO 2024-02-19 16:17:12,663 autoreload 1832 16112 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:17:13,878 autoreload 16912 17252 Watching for file changes with StatReloader
+INFO 2024-02-19 16:17:18,693 autoreload 16912 17252 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:17:19,866 autoreload 11616 18088 Watching for file changes with StatReloader
+INFO 2024-02-19 16:17:45,320 autoreload 11616 18088 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:17:46,502 autoreload 11808 9592 Watching for file changes with StatReloader
+INFO 2024-02-19 16:17:55,172 autoreload 11808 9592 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:17:56,314 autoreload 344 17544 Watching for file changes with StatReloader
+INFO 2024-02-19 16:18:02,904 autoreload 344 17544 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:18:03,978 autoreload 6184 14980 Watching for file changes with StatReloader
+INFO 2024-02-19 16:18:10,475 autoreload 6184 14980 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:18:11,562 autoreload 15436 12080 Watching for file changes with StatReloader
+INFO 2024-02-19 16:18:24,722 autoreload 15436 12080 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:18:25,771 autoreload 3516 13904 Watching for file changes with StatReloader
+INFO 2024-02-19 16:18:31,309 autoreload 3516 13904 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp3\models.py changed, reloading.
+INFO 2024-02-19 16:18:32,554 autoreload 13060 15880 Watching for file changes with StatReloader
