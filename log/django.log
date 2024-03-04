@@ -1924,3 +1924,274 @@ WARNING 2024-02-21 16:48:20,768 basehttp 7080 18500 "GET /static/bootstrap/js/bo
 INFO 2024-02-21 16:48:23,051 basehttp 7080 10524 "GET /clients/products/3/365 HTTP/1.1" 200 1017
 WARNING 2024-02-21 16:48:23,103 basehttp 7080 10524 "GET /static/bootstrap/css/bootstrap.css HTTP/1.1" 404 1840
 WARNING 2024-02-21 16:48:23,103 basehttp 7080 15452 "GET /static/bootstrap/js/bootstrap.js HTTP/1.1" 404 1834
+INFO 2024-02-22 13:43:36,568 autoreload 5176 3096 Watching for file changes with StatReloader
+INFO 2024-02-22 13:44:00,743 basehttp 5176 8880 "GET /les4/user/add HTTP/1.1" 301 0
+INFO 2024-02-22 13:44:00,809 basehttp 5176 16728 "GET /les4/user/add/ HTTP/1.1" 200 607
+WARNING 2024-02-22 13:44:00,870 log 5176 16728 Not Found: /favicon.ico
+WARNING 2024-02-22 13:44:00,870 basehttp 5176 16728 "GET /favicon.ico HTTP/1.1" 404 3460
+INFO 2024-02-22 13:47:42,479 basehttp 5176 16728 "GET /les4/user/add/ HTTP/1.1" 200 825
+INFO 2024-02-22 13:48:01,310 basehttp 5176 16728 "POST /les4/user/add/ HTTP/1.1" 200 882
+INFO 2024-02-22 13:51:00,506 basehttp 5176 16728 "POST /les4/user/add/ HTTP/1.1" 200 882
+INFO 2024-02-22 13:53:57,283 autoreload 5176 3096 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:53:57,717 autoreload 15184 9028 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:02,078 autoreload 15184 9028 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:02,500 autoreload 16336 16112 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:08,807 autoreload 16336 16112 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:09,227 autoreload 18152 11800 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:12,405 autoreload 18152 11800 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:12,823 autoreload 9092 16948 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:14,982 autoreload 9092 16948 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:15,413 autoreload 12440 6828 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:17,664 autoreload 12440 6828 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:18,093 autoreload 12636 15364 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:21,251 autoreload 12636 15364 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:21,654 autoreload 7100 15576 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:24,838 autoreload 7100 15576 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:25,252 autoreload 15636 6440 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:27,506 autoreload 15636 6440 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:27,909 autoreload 15696 15404 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:30,062 autoreload 15696 15404 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:30,475 autoreload 8256 16432 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:33,745 autoreload 8256 16432 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:34,158 autoreload 9836 6472 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:36,463 autoreload 9836 6472 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:36,913 autoreload 9824 15856 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:39,208 autoreload 9824 15856 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:39,643 autoreload 17048 16568 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:42,904 autoreload 17048 16568 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:43,334 autoreload 3244 16556 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:44,608 autoreload 3244 16556 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:45,034 autoreload 15176 7120 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:46,323 autoreload 15176 7120 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:46,761 autoreload 17076 16456 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:49,008 autoreload 17076 16456 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:49,448 autoreload 8276 16664 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:52,704 autoreload 8276 16664 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:53,145 autoreload 10624 4236 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:55,388 autoreload 10624 4236 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:55,801 autoreload 3412 2216 Watching for file changes with StatReloader
+INFO 2024-02-22 13:54:57,096 autoreload 3412 2216 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:54:57,532 autoreload 9076 5196 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:02,867 autoreload 9076 5196 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:03,289 autoreload 16696 16688 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:05,440 autoreload 16696 16688 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:05,868 autoreload 5940 5080 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:07,101 autoreload 5940 5080 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:07,527 autoreload 11656 1600 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:10,845 autoreload 11656 1600 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:11,282 autoreload 8364 17932 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:13,425 autoreload 8364 17932 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:13,827 autoreload 3784 9880 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:18,158 autoreload 3784 9880 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:18,575 autoreload 12840 17992 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:20,741 autoreload 12840 17992 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:21,176 autoreload 6428 2956 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:25,454 autoreload 6428 2956 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:25,863 autoreload 7472 2404 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:28,151 autoreload 7472 2404 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:28,585 autoreload 4236 10624 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:29,853 autoreload 4236 10624 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:30,287 autoreload 8876 7852 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:34,466 autoreload 8876 7852 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:34,868 autoreload 15216 17424 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:37,027 autoreload 15216 17424 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:37,469 autoreload 18164 18220 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:39,711 autoreload 18164 18220 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:40,116 autoreload 16688 16696 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:44,396 autoreload 16688 16696 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:44,814 autoreload 8200 16200 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:46,084 autoreload 8200 16200 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:46,516 autoreload 18124 16372 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:48,817 autoreload 18124 16372 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:49,262 autoreload 948 11424 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:51,408 autoreload 948 11424 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:51,830 autoreload 15776 18400 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:54,116 autoreload 15776 18400 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:54,528 autoreload 14568 15460 Watching for file changes with StatReloader
+INFO 2024-02-22 13:55:57,781 autoreload 14568 15460 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:55:58,212 autoreload 3392 16788 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:04,529 autoreload 3392 16788 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:04,958 autoreload 10120 12636 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:06,103 autoreload 10120 12636 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:06,568 autoreload 17080 3412 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:09,739 autoreload 17080 3412 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:10,148 autoreload 17684 16668 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:13,408 autoreload 17684 16668 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:13,858 autoreload 5372 18312 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:16,148 autoreload 5372 18312 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:16,554 autoreload 18172 17244 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:24,967 autoreload 18172 17244 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:25,404 autoreload 100 9824 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:26,546 autoreload 100 9824 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:26,965 autoreload 17528 16888 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:30,228 autoreload 17528 16888 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:30,648 autoreload 14452 17296 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:31,795 autoreload 14452 17296 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:32,212 autoreload 18012 872 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:37,561 autoreload 18012 872 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:37,975 autoreload 956 16780 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:39,117 autoreload 956 16780 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:39,543 autoreload 17740 15888 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:43,816 autoreload 17740 15888 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:44,250 autoreload 16988 17492 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:47,555 autoreload 16988 17492 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:47,963 autoreload 17496 7096 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:49,195 autoreload 17496 7096 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:49,612 autoreload 16520 1576 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:51,906 autoreload 16520 1576 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:52,351 autoreload 5940 16076 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:54,643 autoreload 5940 16076 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:55,046 autoreload 18388 1496 Watching for file changes with StatReloader
+INFO 2024-02-22 13:56:58,358 autoreload 18388 1496 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:56:58,793 autoreload 9908 7204 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:00,077 autoreload 9908 7204 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:00,526 autoreload 4124 2108 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:02,820 autoreload 4124 2108 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:03,226 autoreload 16056 16924 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:04,506 autoreload 16056 16924 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:04,924 autoreload 16404 18384 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:09,242 autoreload 16404 18384 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:09,679 autoreload 4428 16364 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:10,939 autoreload 4428 16364 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:11,355 autoreload 9176 17268 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:13,640 autoreload 9176 17268 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:14,057 autoreload 7384 17608 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:18,389 autoreload 7384 17608 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:18,815 autoreload 18264 3716 Watching for file changes with StatReloader
+INFO 2024-02-22 13:57:22,118 autoreload 18264 3716 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\forms.py changed, reloading.
+INFO 2024-02-22 13:57:22,536 autoreload 5212 5372 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:26,085 autoreload 5212 5372 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:26,505 autoreload 7116 10156 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:34,932 autoreload 7116 10156 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:35,363 autoreload 15636 1660 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:37,667 autoreload 15636 1660 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:38,085 autoreload 9332 8184 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:40,245 autoreload 9332 8184 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:40,646 autoreload 6780 10932 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:44,823 autoreload 6780 10932 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:45,238 autoreload 9124 18052 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:46,374 autoreload 9124 18052 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:46,801 autoreload 17748 15940 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:49,979 autoreload 17748 15940 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:50,391 autoreload 18344 9880 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:51,519 autoreload 18344 9880 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:51,963 autoreload 14480 6564 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:55,121 autoreload 14480 6564 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:55,550 autoreload 13148 16616 Watching for file changes with StatReloader
+INFO 2024-02-22 14:00:58,715 autoreload 13148 16616 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:00:59,120 autoreload 18044 3716 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:01,271 autoreload 18044 3716 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:01,692 autoreload 4776 16964 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:02,820 autoreload 4776 16964 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:03,243 autoreload 14784 6548 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:04,381 autoreload 14784 6548 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:04,789 autoreload 16756 16240 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:06,948 autoreload 16756 16240 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:07,380 autoreload 1924 6040 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:09,546 autoreload 1924 6040 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:09,985 autoreload 16808 5668 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:12,142 autoreload 16808 5668 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:12,623 autoreload 344 7240 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:14,917 autoreload 344 7240 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:15,346 autoreload 13152 6224 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:17,627 autoreload 13152 6224 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:18,073 autoreload 18344 704 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:20,365 autoreload 18344 704 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:20,796 autoreload 16360 18384 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:25,993 autoreload 16360 18384 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:26,392 autoreload 16424 18332 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:30,568 autoreload 16424 18332 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:30,977 autoreload 3052 3716 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:33,119 autoreload 3052 3716 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:33,531 autoreload 4776 18392 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:36,703 autoreload 4776 18392 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:37,115 autoreload 14784 9844 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:43,341 autoreload 14784 9844 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:43,747 autoreload 7272 396 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:45,902 autoreload 7272 396 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:46,327 autoreload 17684 4428 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:47,611 autoreload 17684 4428 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:48,045 autoreload 18252 2740 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:53,248 autoreload 18252 2740 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:53,686 autoreload 6752 976 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:54,959 autoreload 6752 976 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:55,387 autoreload 17268 16896 Watching for file changes with StatReloader
+INFO 2024-02-22 14:01:57,675 autoreload 17268 16896 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:01:58,095 autoreload 16900 12828 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:03,291 autoreload 16900 12828 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:03,687 autoreload 14196 5488 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:04,957 autoreload 14196 5488 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:05,391 autoreload 10156 17016 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:07,683 autoreload 10156 17016 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:08,117 autoreload 18392 4776 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:12,435 autoreload 18392 4776 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:12,854 autoreload 2876 6040 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:18,203 autoreload 2876 6040 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:18,641 autoreload 15328 16668 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:20,940 autoreload 15328 16668 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:21,379 autoreload 2500 18400 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:23,672 autoreload 2500 18400 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:24,112 autoreload 16760 16508 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:26,410 autoreload 16760 16508 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:26,814 autoreload 6180 16672 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:31,147 autoreload 6180 16672 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:31,571 autoreload 2268 12556 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:34,885 autoreload 2268 12556 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:35,290 autoreload 10168 14400 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:38,609 autoreload 10168 14400 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:39,031 autoreload 18172 17232 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:44,367 autoreload 18172 17232 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:44,775 autoreload 5412 16572 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:48,082 autoreload 5412 16572 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:48,497 autoreload 7152 8700 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:51,801 autoreload 7152 8700 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:52,233 autoreload 9024 13072 Watching for file changes with StatReloader
+INFO 2024-02-22 14:02:57,575 autoreload 9024 13072 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:02:57,983 autoreload 17036 15640 Watching for file changes with StatReloader
+INFO 2024-02-22 14:03:02,333 autoreload 17036 15640 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\views.py changed, reloading.
+INFO 2024-02-22 14:03:02,740 autoreload 16716 16920 Watching for file changes with StatReloader
+INFO 2024-02-22 14:04:52,987 autoreload 16716 16920 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:04:53,401 autoreload 16112 2968 Watching for file changes with StatReloader
+INFO 2024-02-22 14:04:56,722 autoreload 16112 2968 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:04:57,130 autoreload 18276 4948 Watching for file changes with StatReloader
+INFO 2024-02-22 14:04:58,405 autoreload 18276 4948 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:04:58,829 autoreload 17200 7244 Watching for file changes with StatReloader
+INFO 2024-02-22 14:05:04,173 autoreload 17200 7244 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:05:04,591 autoreload 6832 4092 Watching for file changes with StatReloader
+INFO 2024-02-22 14:05:08,918 autoreload 6832 4092 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:05:09,329 autoreload 16848 18244 Watching for file changes with StatReloader
+INFO 2024-02-22 14:05:14,693 autoreload 16848 18244 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:05:15,110 autoreload 14808 17040 Watching for file changes with StatReloader
+INFO 2024-02-22 14:05:24,547 autoreload 14808 17040 C:\Users\Ivan\Desktop\VisualStudio\Python\Django\Seminar1\app1\myapp4_1\urls.py changed, reloading.
+INFO 2024-02-22 14:05:24,958 autoreload 5020 1884 Watching for file changes with StatReloader
+INFO 2024-02-22 14:07:44,735 basehttp 5020 15704 "POST /les4/user/add/ HTTP/1.1" 200 882
+INFO 2024-02-22 14:08:03,976 basehttp 5020 15704 "GET /les4/forms HTTP/1.1" 301 0
+INFO 2024-02-22 14:08:04,021 basehttp 5020 15980 "GET /les4/forms/ HTTP/1.1" 200 1513
+INFO 2024-02-22 14:08:57,616 basehttp 5020 15980 "POST /les4/forms/ HTTP/1.1" 200 1596
+INFO 2024-02-22 14:10:15,439 basehttp 5020 15980 "POST /les4/forms/ HTTP/1.1" 200 1596
+INFO 2024-02-22 14:10:15,609 basehttp 5020 15980 "POST /les4/forms/ HTTP/1.1" 200 1596
+INFO 2024-02-22 14:10:15,794 basehttp 5020 15980 "POST /les4/forms/ HTTP/1.1" 200 1596
+INFO 2024-03-03 15:30:02,408 autoreload 20244 17116 Watching for file changes with StatReloader
+INFO 2024-03-03 15:30:10,237 autoreload 388 19712 Watching for file changes with StatReloader
+INFO 2024-03-03 15:30:17,111 basehttp 388 6116 "GET / HTTP/1.1" 200 9312
+INFO 2024-03-03 15:30:17,331 basehttp 388 6116 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-03-03 15:30:17,363 basehttp 388 19988 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-03-03 15:30:17,421 basehttp 388 6116 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-03-03 15:30:17,527 basehttp 388 6116 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2024-03-03 15:30:17,726 log 388 6116 Not Found: /favicon.ico
+WARNING 2024-03-03 15:30:17,729 basehttp 388 6116 "GET /favicon.ico HTTP/1.1" 404 12555
+INFO 2024-03-03 15:31:12,218 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=HistoryPanel HTTP/1.1" 200 3848
+INFO 2024-03-03 15:31:12,258 basehttp 388 6116 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO 2024-03-03 15:31:18,605 basehttp 388 6116 "GET /__debug__/history_sidebar/?store_id=e17d9624e24e41c6a22ade32fa7dcf85&exclude_history=True HTTP/1.1" 200 7541
+INFO 2024-03-03 15:31:20,576 basehttp 388 6116 "GET /__debug__/history_sidebar/?store_id=e4de473492c6466384bb222e9d306d3b&exclude_history=True HTTP/1.1" 200 7569
+INFO 2024-03-03 15:31:21,526 basehttp 388 6116 "GET /__debug__/history_sidebar/?store_id=e17d9624e24e41c6a22ade32fa7dcf85&exclude_history=True HTTP/1.1" 200 7541
+INFO 2024-03-03 15:31:22,776 basehttp 388 6116 "GET /__debug__/history_sidebar/?store_id=e4de473492c6466384bb222e9d306d3b&exclude_history=True HTTP/1.1" 200 7569
+INFO 2024-03-03 15:31:31,952 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=VersionsPanel HTTP/1.1" 200 621
+INFO 2024-03-03 15:31:53,690 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=SettingsPanel HTTP/1.1" 200 26683
+INFO 2024-03-03 15:32:37,236 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=HeadersPanel HTTP/1.1" 200 4377
+INFO 2024-03-03 15:32:55,596 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=RequestPanel HTTP/1.1" 200 1392
+INFO 2024-03-03 15:33:41,858 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=SQLPanel HTTP/1.1" 200 115
+INFO 2024-03-03 15:34:31,852 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=StaticFilesPanel HTTP/1.1" 200 35012
+INFO 2024-03-03 15:35:08,199 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=TemplatesPanel HTTP/1.1" 200 6195
+INFO 2024-03-03 15:35:35,567 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=CachePanel HTTP/1.1" 200 1413
+INFO 2024-03-03 15:35:47,976 basehttp 388 6116 "GET /__debug__/render_panel/?store_id=e4de473492c6466384bb222e9d306d3b&panel_id=SignalsPanel HTTP/1.1" 200 2107
